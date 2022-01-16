@@ -1,0 +1,3 @@
+this file txt
+file is test
+ver 1.2
